@@ -36,15 +36,3 @@ Your submission will be scored against the following criteria:
 * Is your code clearly organized according to models, routes, and controllers?
 * Are your variables and functions well-named?
 * Is your code well commented?
-
-## Project Groups
-| Partner 1 | Partner 2 | Partner 3 |
-|-----------|-----------| --- |
-| Steph | Enmanuel | Peter |
-| Mark | Devonte | |
-| Cielo | Laisha | |
-
-_**Note:** Groups are preliminarily drafted. They may be adjusted based on when partners are cleared to begin the project._
-
-## Due Date
-Tuesday, April 14 at 9AM
