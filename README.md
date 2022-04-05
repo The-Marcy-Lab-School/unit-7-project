@@ -5,11 +5,15 @@ Congratulations! You can use the DOM API to create dynamic user interfaces. You 
 
 As always, there are general guidelines and checkpoints for this project, but it is left open-ended so that you can let your passion and interests drive your creativity. The purpose of this project is for you to:
   1. Practice domain modeling and RESTful API design in an applied context.
-  2. Gain  practice building clean, intuitive UIs that speak to REST APIs that you designed.
+  2. Gain practice building clean, intuitive UIs that speak to REST APIs that you designed.
   3. Build a minimimum viable product that could grow to impact the lives of real people.
 
 ## Project Requirements
-You must build a fullstack application. Your backend should be a RESTful API that facilitates CRUD operations on a Postgres database. Your frontend should communicate with your backend through hyperlinks and form submissions. Additionally, your project must include some form of user authorization.
+* You must build a fullstack application with an HTML/CSS Front-end and a Node/Express Back-end connected to a Postgres Database. 
+* Your backend should be a RESTful API that facilitates CRUD operations on a Postgres database. 
+* You should have at least 3 entities/tables in your Postgres Database and at least two One-To-Many relationships. 
+* Your frontend should communicate with your backend through HTTP Requests and `fetch` calls. 
+* Additionally, your project should include some form of user authorization.
 
 ## Using Your Resources
 Just like last time, this project will push you to lean into your _autodidacticism_. In order to complete this project at a satisfactory level, you _will_ have to do some self-learning. This is by design. By pulling from blog articles, YouTube tutorials, and examples on GitHub, you will be able to build whatever you put your mind to.
