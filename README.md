@@ -13,7 +13,7 @@ As always, there are general guidelines and checkpoints for this project, but it
 * Your backend should be a RESTful API that facilitates CRUD operations on a Postgres database. 
 * You should have at least 3 entities/tables in your Postgres Database and at least two One-To-Many relationships. 
 * Your frontend should communicate with your backend through HTTP Requests and `fetch` calls. 
-* Additionally, your project should include some form of user authorization.
+* Additionally, it is highly encouraged that your project should include some form of user authorization.
 
 ## Using Your Resources
 Just like last time, this project will push you to lean into your _autodidacticism_. In order to complete this project at a satisfactory level, you _will_ have to do some self-learning. This is by design. By pulling from blog articles, YouTube tutorials, and examples on GitHub, you will be able to build whatever you put your mind to.
