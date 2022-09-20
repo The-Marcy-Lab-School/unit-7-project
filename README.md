@@ -9,10 +9,9 @@ As always, there are general guidelines and checkpoints for this project, but it
   3. Build a minimimum viable product that could grow to impact the lives of real people.
 
 ## Project Requirements
-* You must build a fullstack application with an HTML/CSS Front-end and a Node/Express Back-end connected to a Postgres Database. 
-* Your backend should be a RESTful API that facilitates CRUD operations on a Postgres database. 
+* You must build a fullstack application with Express and your app must be connected to a Postgres Database. 
+* The backend portion of your Express app should be a RESTful API that facilitates CRUD operations on a Postgres database. 
 * You should have at least 3 entities/tables in your Postgres Database and at least two One-To-Many relationships. 
-* Your frontend should communicate with your backend through HTTP Requests and `fetch` calls. 
 * Additionally, it is highly encouraged that your project should include some form of user authorization.
 
 ## Using Your Resources
