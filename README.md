@@ -10,8 +10,9 @@ As always, there are general guidelines and checkpoints for this project, but it
 
 ## Project Requirements
 * You must build a fullstack application with Express and your app must be connected to a Postgres Database. 
-* The backend portion of your Express app should be a RESTful API that facilitates CRUD operations on a Postgres database. 
-* You should have at least 3 entities/tables in your Postgres Database and at least two One-To-Many relationships. 
+* The backend portion of your app should be a RESTful API that facilitates CRUD operations on a Postgres database. 
+* The frontend portion of your app should be an HTML/JS UI, much like your Unit 6 Project. 
+* You should have at two entities/tables in your Postgres Database and at least two One-To-Many relationships. 
 * Additionally, it is highly encouraged that your project should include some form of user authorization.
 
 ## Using Your Resources
