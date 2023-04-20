@@ -17,12 +17,19 @@ For this project, you are expected to have three database tables as part of your
 **Blogging App**
 * Users, Blogs, Comments
 
+**Healthcare App**
+* Patients, Appointments, Doctors
+
 
 
 
 ## Solo Project Ideas
 
-If you are completing a Unit 7 Project as a soloist, youare expected to have two database tables as part of your MVP. The relationship between your tables must be a One-to-Many. There any many simple app ideas that would fit nicely into these requirements. For example, a Personal To Do List would have a `Users` table and a `ToDos` table. A user would be able to create an account, sign in, and keep track of their ToDos. However, so many bootcamp students build a basic To Do List as part of their portfolio. For your project, you should build some other personal tracker! All of the ideas below involve _at least_ two tables and _at least_ one one-to-many relationship and are acceptable project ideas! 
+If you are completing a Unit 7 Project as a soloist, you are expected to have two database tables as part of your MVP. The relationship between your tables must be a One-to-Many. 
+
+There any many simple app ideas that would fit nicely into these requirements. For example, a Personal To Do List would have a `Users` table and a `ToDos` table. A user would be able to create an account, sign in, and keep track of their ToDos. However, so many bootcamp students build a basic To Do List as part of their portfolio. 
+
+For your project, we want you to build some other personal website or personal tracker! All of the ideas below involve _at least_ two tables and _at least_ one one-to-many relationship and are acceptable project ideas! 
 
 **Personal Blogging Site**
 * Users, Blogs
