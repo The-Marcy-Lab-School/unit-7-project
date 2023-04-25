@@ -16,7 +16,7 @@ It is perfectly acceptable (and even encouraged) to build a clone of an existing
 **Blogging App**
 * Users, Blogs, Comments
 
-### Challeng Projects
+### Challenge Projects
 
 The following projects are a bit more challenging because they have *two types* of users. 
 
