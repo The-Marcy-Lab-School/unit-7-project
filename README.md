@@ -6,7 +6,7 @@ Congratulations! You can use the DOM API to create dynamic user interfaces. You 
 As always, there are general guidelines and checkpoints for this project, but it is left open-ended so that you can let your passion and interests drive your creativity. The purpose of this project is for you to:
   1. Practice domain modeling and RESTful API design in an applied context.
   2. Gain practice building clean, intuitive UIs that speak to REST APIs that you designed.
-  3. Build a minimimum viable product that could grow to impact the lives of real people.
+  3. Build a minimimum viable product that could grow to accodomate additional features.
 
 ## Project Requirements
 * You will build a fullstack application with Express and the app must be connected to a Postgres Database. 
