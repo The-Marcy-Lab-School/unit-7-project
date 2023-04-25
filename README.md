@@ -10,7 +10,6 @@ As always, there are general guidelines and checkpoints for this project, but it
 
 ## Project Requirements
 * You will build a fullstack application with Express and the app must be connected to a Postgres Database. 
-* The backend portion of app must be a RESTful API that facilitates CRUD operations on a Postgres database. 
 * You must have three tables and a Many-to-Many relationship. However, if you are building this project solo, then you must have two tables and a One-to-Many relationship.
 * You are expected to build out **full-CRUD** functionality on at least one model.
 * You will build their own frontend which is served as static assets in the public directory.
