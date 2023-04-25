@@ -13,11 +13,15 @@ It is perfectly acceptable (and even encouraged) to build a clone of an existing
 **Twitter**
 * Users, Tweets, Likes
 
-**Uber**
-* Riders, Rides, Drivers
-
 **Blogging App**
 * Users, Blogs, Comments
+
+##### Challenging Domains
+
+The following projects are a bit more challenging because they have *two types* of users. 
+
+**Uber**
+* Riders, Rides, Drivers
 
 **Healthcare App**
 * Patients, Appointments, Doctors
