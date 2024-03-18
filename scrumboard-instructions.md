@@ -21,7 +21,7 @@ You will be using Github Projects to organize and manage your workflow. You can 
 ![](img/new-org-repo.png)
 
 * Click on <kbd>Create a new repository</kbd>
-* Give your repository a fun name that matches the name of your game!
+* Give your repository a fun name that matches the name of your project!
 * Make sure to make the repo **public**
 * Add a **README**
 * Choose the **MIT License** 
